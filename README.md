@@ -1,13 +1,8 @@
 # International Networks
 
-## Beta assesment Artefacts (Research)
-- Customer Journey - Beta
-- Personas - Beta 
-- Persona Spectrum - Beta 
-- Needs vs Features - Beta 
-- Needs - Detailed view - Beta 
-- Changes made in response to research - Beta 
-- Objectives and key results OKR's - Beta 
+## Production Links
+- Live:zzz 
+
 
 ## Alpha Assesment Artefacts (Research)
 - Customer Journey 
@@ -34,11 +29,6 @@
 ## Prototypes
 - v1 
 - v2 
-
-## Production Links
-- QA:  zzz 
-- UAT: zzz 
-- Live:zzz 
 
 
 ## Resources
