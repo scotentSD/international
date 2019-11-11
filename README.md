@@ -19,7 +19,7 @@
 - Storymap: User Needs 
 - Personas 
 - Persona Spectrum 
-- [Service Blueprint](/international/files/Become a GlobalScot.pdf)
+- [Service Blueprint] (/international/Become a GlobalScot.pdf)
 - Storymap: Features  
 
 ## Customer Research
