@@ -16,10 +16,10 @@
 ## Discovery 
 - Design Sprint 
 - Customer Journey 
-- [User Needs] (files/international/International Networks - User Needs.pdf) 
+- [User Needs](files/international/International Networks - User Needs.pdf) 
 - Personas 
 - Persona Spectrum 
-- [Service Blueprint] (/international/Become a GlobalScot.pdf)
+- [Service Blueprint](/international/Become a GlobalScot.pdf)
 - Storymap: Features  
 
 ## Customer Research
