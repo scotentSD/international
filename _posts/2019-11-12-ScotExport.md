@@ -21,6 +21,10 @@ display_date: 12th Nov 2019
 **What we discovered**
 - People have a reasonably high awareness of Globalscot (in this audience)
 - They are not allways accurate in what they think GlobalScot is
+- They often hear about GlobaScot through existing SDI interactions
+- Actual useage levels are quite flows
+- People find it takes a long time to Accessibility
+  - QUOTE: "It is a very manual process"
 - 
 
 <!--more-->
