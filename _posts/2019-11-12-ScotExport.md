@@ -17,7 +17,7 @@ display_date: 12th Nov 2019
 - Globalscot awareness
 - Globalscot past experiences
 - Globalscot sentiment
-<!--more-->
+
 **What we discovered**
 - People have a reasonably high awareness of GlobalScot (in this audience)
 - They are not always accurate in what they think GlobalScot is
@@ -28,3 +28,5 @@ display_date: 12th Nov 2019
 - People only use the website when they want to use the network. (Earlier access might have prepared them better)
 - The web site appears dated
 - QUOTE **It looks like a 10 year old website**
+
+<!--more-->
