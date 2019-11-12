@@ -21,7 +21,6 @@
 ## Customer Research
 - [Usability Testing shown on Discovery Timeline](timeline)
 
-
 ## Prototypes
 
 ## Resources
