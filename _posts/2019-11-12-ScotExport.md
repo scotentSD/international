@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Test Blog entry V8
-type: online
-phase: beta
+title: Scot Export event 2019
+type: other
+phase: discpvery
 initials: mk
 display_date: 12th Nov 2019
 ---
@@ -14,9 +14,13 @@ display_date: 12th Nov 2019
 - Circa 350 Exporters or people looking to export
 
 **We were focusing on**
-- Globalscot
+- Globalscot awareness
+- Globalscot past experiences
+- Globalscot sentiment
 
-**What we discovered about the Event Links**
-- People
+**What we discovered**
+- People have a reasonably high awareness of Globalscot (in this audience)
+- They are not allways accurate in what they think GlobalScot is
+- 
 
 <!--more-->
