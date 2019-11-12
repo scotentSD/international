@@ -14,6 +14,7 @@
 - Objectives and key results OKR's 
 
 ## Discovery 
+- Market Gravity Proposition
 - Design Sprint 
 - Customer Journey 
 - [User Needs](/files/International Networks - User Needs.pdf) 
