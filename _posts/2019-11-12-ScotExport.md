@@ -8,7 +8,7 @@ display_date: 12th Nov 2019
 ---
 
 **Scot Export Event**
-- Nov 12th 2019 at the Glasgow Technology Innovation Centre
+- Nov 12th 2019,  at the Glasgow Technology Innovation Centre
 
 **Audience**
 - Circa 350 Exporters or people looking to export
@@ -28,6 +28,5 @@ display_date: 12th Nov 2019
 - People only use the website when they want to use the network. (Earlier access might have prepared them better)
 - The web site appears dated
 - QUOTE **It looks like a 10 year old website**
-
 
 <!--more-->
