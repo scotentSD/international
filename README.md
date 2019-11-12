@@ -14,12 +14,15 @@
 - Objectives and key results OKR's 
 
 ## Discovery 
+- Market Gravity Proposition
 - Design Sprint 
-- Customer Journey 
+- Customer experience maps
+  - [A day in the life of a GlobalScot](/files/Future State - A day in the life GlobalScot.pdf)
+  - [Company user](files/Future State - Company user.pdf)
+  - [Prospective GlobalScot](files/Future State - Prospect GlobalScot.pdf)
 - [User Needs](/files/International Networks - User Needs.pdf) 
-- Personas 
-- Persona Spectrum 
-- [Service Blueprint](/files/Become a GlobalScot.pdf)
+- [Personas](/files/Scotland_PLC_Personas.pdf)
+- [Service Blueprint - Become a GlobalScot](/files/Become a GlobalScot.pdf)
 - Storymap: Features  
 
 ## Customer Research
