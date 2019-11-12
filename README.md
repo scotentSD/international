@@ -25,7 +25,7 @@
 - [Service Blueprint - Become a GlobalScot](/files/Become a GlobalScot.pdf)
 - Storymap: Features  
 
-[Discovery Timeline](timeline/)
+[Discovery Timeline](timeline)
 
 ## Customer Research
 - Usability Testing ...
