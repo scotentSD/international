@@ -18,7 +18,7 @@
 - Design Sprint 
 - Customer Journey 
 - [User Needs](/files/International Networks - User Needs.pdf) 
-- Personas
+- [Personas](/files/Scotland_PLC_Personas.pdf)
 - [Service Blueprint - Become a GlobalScot](/files/Become a GlobalScot.pdf)
 - Storymap: Features  
 
