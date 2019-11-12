@@ -4,15 +4,6 @@
 - No live site yet
 
 
-## Alpha Assessment Artefacts (Research)
-- Customer Journey
-- Personas
-- Persona Spectrum
-- Needs vs Features
-- Needs - Detailed view
-- Changes made in response to research
-- Objectives and key results OKR's
-
 ## Discovery
 - Market Gravity Proposition
 - Design Sprint
@@ -28,13 +19,9 @@
 [Discovery Timeline](timeline)
 
 ## Customer Research
-- Usability Testing ...
+- [Usability Testing shown on Discovery Timeline](timeline)
 
 
 ## Prototypes
-- v1
-- v2
-
 
 ## Resources
-- zzz
