@@ -16,7 +16,10 @@
 ## Discovery 
 - Market Gravity Proposition
 - Design Sprint 
-- Customer Journey 
+- Customer experience maps
+..*A day in the life of a GlobalScot
+..*Company user
+..*Prospective GlobalScot
 - [User Needs](/files/International Networks - User Needs.pdf) 
 - [Personas](/files/Scotland_PLC_Personas.pdf)
 - [Service Blueprint - Become a GlobalScot](/files/Become a GlobalScot.pdf)
