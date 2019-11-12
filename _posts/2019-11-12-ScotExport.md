@@ -25,6 +25,8 @@ display_date: 12th Nov 2019
 - Actual useage levels are quite flows
 - People find it takes a long time to Accessibility
   - QUOTE: "It is a very manual process"
-- 
+- People only use the website when they want to use the network. (Earlier access might have prepared them better)
+- The web site appears dated
+  - Quote: "It looks like a 10 year old website"
 
 <!--more-->
