@@ -5,8 +5,6 @@
 
 
 ## Discovery
-- Market Gravity Proposition
-- Design Sprint
 - **Customer experience maps**
    - [A day in the life of a GlobalScot](/files/Future State - A day in the life GlobalScot.pdf)
    - [Company user](files/Future State - Company user.pdf)
