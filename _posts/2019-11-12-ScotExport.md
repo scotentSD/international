@@ -21,9 +21,9 @@ display_date: 12th Nov 2019
 **What we discovered**
 - People have a reasonably high awareness of GlobalScot (in this audience)
 - They are not always accurate in what they think GlobalScot is
-- They often hear about GlobaScot through existing SDI interactions
-- Actual usage levels are quite flows
-- People find it takes a long time to Accessibility
+- They often hear about GlobalScot through existing SDI interactions
+- Actual usage levels are quite low
+- People find it takes a long time to access
   - QUOTE: "**It is a very manual process**"
 - People only use the website when they want to use the network. (Earlier access might have prepared them better)
 - The web site appears dated
