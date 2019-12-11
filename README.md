@@ -1,5 +1,9 @@
 # International Networks
 
+## Alpha
+- ## Customer Research
+   - [Usability Testing shown on UR Timeline](timeline)
+
 ## Production Links
 - No live site yet
 
@@ -17,13 +21,8 @@
   - [Post a general request](files/International Networks - Post a general request.pdf)
   - [Take part in a GlobalScot challenge](files/International Networks - Tale part in a GlobalScot challenge.pdf)
   - [Take part in an event](files/International Networks - Take part in an event/pdf)
-  - [Upgrade my membership](files/International Networks - Upgrade my membership.pdf)
-- Storymap: Features  
+  - [Upgrade my membership](files/International Networks - Upgrade my membership.pdf)  
 
-**[Discovery Timeline](timeline)**
-
-## Customer Research
-- [Usability Testing shown on Discovery Timeline](timeline)
 
 ## Prototypes
 
