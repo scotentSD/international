@@ -8,6 +8,9 @@ display_date: 12th Nov 2019
 ---
 
 **Scot Export Event**
+- Phase: pre-alpha
+
+**Scot Export Event**
 - Nov 12th 2019,  at the Glasgow Technology Innovation Centre
 
 **Audience**
