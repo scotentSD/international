@@ -1,11 +1,13 @@
 # International Networks
 
 ## Alpha
-- ## Customer Research
-   - [Usability Testing shown on UR Timeline](timeline)
+ - [UR timeline] (timeline)
 
 ## Production Links
 - No live site yet
+
+## Customer Research
+- [Usability Testing shown on UR Timeline](timeline)
 
 
 ## Discovery
