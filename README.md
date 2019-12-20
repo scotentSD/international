@@ -26,7 +26,6 @@
   - [Upgrade my membership](files/International Networks - Upgrade my membership.pdf)  
 
 
-
 ## Prototypes
 
 ## Resources
