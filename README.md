@@ -22,7 +22,7 @@
   - [Join the GlobalScot network](files/International Networks - Join the GlobalScot network.pdf)
   - [Post a general request](files/International Networks - Post a general request.pdf)
   - [Take part in a GlobalScot challenge](files/InternationalNetworks-TakePart.pdf)
-  - [Take part in an event](files/International Networks - Take part in an event/pdf)
+  - [Take part in an event](files/International Networks - Take part in an event.pdf)
   - [Upgrade my membership](files/International Networks - Upgrade my membership.pdf)  
 
 
