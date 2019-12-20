@@ -65,7 +65,7 @@ exclude:
 # README.md
   - CNAME
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 plugins:
   - jekyll-relative-links
