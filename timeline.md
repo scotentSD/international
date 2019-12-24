@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://scotentsd.github.io/resources/timeline.css?ver=15">
 <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 <section id="timeline">
-<h2>Research Timeline</h2>
+<h1>Research Timeline</h1>
  {% include key.html %}
 
 
