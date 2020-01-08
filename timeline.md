@@ -1,8 +1,9 @@
-<title>Research timeline</title>
-<link rel="stylesheet" href="https://scotentsd.github.io/resources/timeline.css?ver=15">
-<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+---
+title: Research timeline
+---
+
 <section id="timeline">
-<h1>Research Timeline</h1>
+<h1>Research timeline</h1>
  {% include key.html %}
 
 
