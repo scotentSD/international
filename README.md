@@ -1,7 +1,4 @@
----
-layout: default
-title:  # don't give a name as it would be redundant, but value need to be null for the breadcrumbs
----
+#
 
 ## Alpha
  - [UR timeline](timeline)
