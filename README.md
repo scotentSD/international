@@ -1,5 +1,3 @@
-#
-
 ## Alpha
  - [UR timeline](timeline)
 
