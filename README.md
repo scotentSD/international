@@ -1,5 +1,3 @@
-# International Networks
-
 ## Alpha
  - [UR timeline](timeline)
 
