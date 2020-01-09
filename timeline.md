@@ -18,6 +18,7 @@ title: Research timeline
           </a>
         </div>
         <div class="timeline_body">
+           <h2>{{ post.title}}</h2>
            {{ post.excerpt }}
         </div>
         <!-- <span class="initials">{{ post.initials }}</span> -->
