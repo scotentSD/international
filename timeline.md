@@ -14,7 +14,7 @@ title: Research timeline
            <a href="{{site.url}}/{{site.github.repository_name}}{{post.url}}">
             <div class="date_{{post.type}}" > {{ post.display_date }} </div>
             <!-- <br>  -->
-            <div class="title_{{post.type}}" >{{post.title}} </div>  
+            <div class="type_{{post.type}}" ></div>  
           </a>
         </div>
         <div class="timeline_body">
