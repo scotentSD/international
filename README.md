@@ -1,6 +1,6 @@
 ## Beta
 
--   - [GlobalScot Persona V9](files/Persona_IN_v9.pdf)
+-   - [GlobalScot Persona V9](files/Personas_IN_v9.pdf)
 
 ## Alpha
  - [UR timeline](timeline)
