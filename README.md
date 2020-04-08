@@ -1,12 +1,9 @@
 ## Beta
 
 - [GlobalScot Persona V9](files/Personas_IN_v9.pdf)
-- [Changes made in response to research - Beta](changes_BETA_v12.pdf)
+- [Changes made in response to research - Beta](GSchangesV11.pdf)
 - [User Needs v7](files/User_needs_beta_V7.pdf)
-
-
-## Alpha
- - [UR timeline](timeline)
+- [UR timeline](timeline)
 
 ## Production Links
 - No live site yet
