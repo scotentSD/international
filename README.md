@@ -1,6 +1,7 @@
 ## Beta
 
--   - [GlobalScot Persona V9](files/Personas_IN_v9.pdf)
+- [GlobalScot Persona V9](files/Personas_IN_v9.pdf)
+- [Changes made in response to research - Beta]()
 
 ## Alpha
  - [UR timeline](timeline)
