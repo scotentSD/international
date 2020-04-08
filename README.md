@@ -1,3 +1,7 @@
+## Beta
+
+-   - [GlobalScot Persona V9](files/Persona_IN_v9.pdf)
+
 ## Alpha
  - [UR timeline](timeline)
 
@@ -27,6 +31,9 @@
 ## Prototypes
 
 ## Resources
+- [This page](https://scotentsd.github.io/international/)
+
+
 
 
 
