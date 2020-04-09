@@ -5,6 +5,12 @@
 - [User Needs v7](files/User_needs_beta_V7.pdf)
 - [User Needs vs Features - TBC](#)
 - [UR timeline](timeline)
+- **Service Blueprints**
+  - Connect with a GlobalScot
+  - Join the GlobalScot network
+  - Post a general request
+  - Take part in a GlobalScot challenge
+  - Take part in an event
 
 ## Production Links
 - No live site yet
