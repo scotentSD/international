@@ -5,7 +5,7 @@
 - [User Needs v7](files/User_needs_beta_V7.pdf)
 - [User Needs vs Features - TBC](#)
 - [UR timeline - To be updated](timeline)
-- [Research Questions - TBC}(#)
+- [Research Questions - TBC](#)
 - [Decision Log- TBC](#)
 - **Service Blueprints**
   - Connect with a GlobalScot
