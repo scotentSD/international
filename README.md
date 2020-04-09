@@ -4,7 +4,9 @@
 - [Changes made in response to research - Beta](files/GSchangesV11.pdf)
 - [User Needs v7](files/User_needs_beta_V7.pdf)
 - [User Needs vs Features - TBC](#)
-- [UR timeline](timeline)
+- [UR timeline - To be updated](timeline)
+- [Research Questions - TBC}(#)
+- [Decision Log- TBC](#)
 - **Service Blueprints**
   - Connect with a GlobalScot
   - Join the GlobalScot network
