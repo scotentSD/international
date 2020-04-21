@@ -5,7 +5,7 @@
 - [User Needs v7](files/User_needs_beta_V7.pdf)
 - [User Needs vs Features - TBC](#)
 - [UR timeline - To be updated](timeline)
-- [Research Questions - TBC](file/ResearchQuestions_IN_2020_V1.pdf)
+- [Research Questions - TBC](files/ResearchQuestions_IN_2020_V1.pdf)
 - [Decision Log- TBC](#)
 - [Ethics Plan](files/ethics_plan_IN_v0.9.pdf)
 - **Service Blueprints**
