@@ -7,7 +7,7 @@
 - [UR timeline - To be updated](timeline)
 - [Research Questions - TBC](#)
 - [Decision Log- TBC](#)
-- [Ethics Plan](#)
+- [Ethics Plan](files/ethics_plan_IN_v0.9.pdf)
 - **Service Blueprints**
   - Connect with a GlobalScot
   - Join the GlobalScot network
