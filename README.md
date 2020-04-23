@@ -1,11 +1,11 @@
 ## Beta
 
 - [GlobalScot Persona V9](files/Personas_IN_v9.pdf)
-- [Changes made in response to research - Beta v11](files/GSchangesV11.pdf)
 - [User Needs v7](files/User_needs_beta_V7.pdf)
 - [User Needs vs Features v7](files/NeedsFeaturesApril2020.pdf)
 - [UR timeline - To be updated](timeline)
 - [Research Questions - v7](files/ResearchQuestions_IN_2020_V7.pdf)
+- [Changes made in response to research - Beta v11](files/GSchangesV11.pdf)
 - [Decision Log- TBC](#)
 - [Ethics Plan](files/ethics_plan_IN_v0.9.pdf)
 - **Service Blueprints**
