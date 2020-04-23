@@ -3,7 +3,7 @@
 - [GlobalScot Persona V9](files/Personas_IN_v9.pdf)
 - [User Needs v7](files/User_needs_beta_V7.pdf)
 - [User Needs vs Features v7](files/NeedsFeaturesApril2020.pdf)
-- [UR timeline - To be updated](timeline)
+- [User Research  timeline - To be updated](timeline)
 - [Research Questions - v7](files/ResearchQuestions_IN_2020_V7.pdf)
 - [Changes made in response to research - Beta v11](files/GSchangesV11.pdf)
 - [Decision Log- TBC](#)
@@ -15,12 +15,6 @@
   - Post a general request
   - Take part in a GlobalScot Project
   - Take part in an event
-
-## Production Links
-- No live site yet
-
-## Customer Research
-- [Usability Testing shown on UR Timeline](timeline)
 
 
 ## Discovery
@@ -38,8 +32,6 @@
   - [Take part in an event](files/International Networks - Take part in an event.pdf)
   - [Upgrade my membership](files/International Networks - Upgrade my membership.pdf)  
 
-
-## Prototypes
 
 ## Resources
 - [This page](https://scotentsd.github.io/international/)
