@@ -9,7 +9,7 @@
 - [Decision Log- TBC](#)
 - [Ethics Plan](files/ethics_plan_IN_v0.9.pdf)
 - **Service Blueprints**
-  - Connect with a GlobalScot
+  - [Request help from a GlobalScot](files/International Networks - Request help from a GlobalScot - Beta.jpg)
   - Join the GlobalScot network
   - Post a general request
   - Take part in a GlobalScot challenge
