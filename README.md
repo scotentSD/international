@@ -12,7 +12,7 @@
   - Request help from a GlobalScot
   - Join the GlobalScot network as a network member
   - Join the GlobalScot network as a GlobalScot
-  - [Post a general request](files/International Networks - Post a general request - Beta.pdf)
+  - [Post a general request](international/International Networks - Post a general request - Beta.pdf)
   - Take part in a GlobalScot Project
   - Take part in an event
 
