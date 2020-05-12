@@ -9,6 +9,7 @@
 - [Decision Log- TBC](#)
 - [Ethics Plan](files/ethics_plan_IN_v0.9.pdf)
 - [Content guidelines](https://scotentsd.github.io/styleguide/)
+- [Custoner journey maps](files/International Networks - Customer journey maps.pdf)
 - **Service Blueprints**
   - [Request help from a GlobalScot](files/International Networks - Request help from a GlobalScot - Beta (1).pdf)
   - [Join the GlobalScot network as a network member](files/International Networks - Join the GlobalScot nework as a network member - Beta.pdf)
