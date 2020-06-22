@@ -28,7 +28,7 @@ The pages are basic designs with placeholder images so they may not be visually 
 It’s also important to note that none of the links on the pages will work.
 
 **What we discovered**
--
+- x
 
 **What we'll do next**
 - x
