@@ -35,11 +35,11 @@ This would force them to use the navigation bar, without us specifically mention
 - The homepage was well received with comments around it being clean, having clean design, uncluttered layout, nice photography and clear fonts.
 - The home page “navigation bar” worked seamlessly for all users. 
 - The actual homepage was viewed favorably. 
-Other observations- 
-- Some people thought the home page was too long
-- Some people viewed the images as stock photography and a bit fake. 
-- Some people said the hero banner was too large and they would rather have seen useful content sooner on the page.  
-- One user said the site looked like LinkedIn and had seen nothing to suggest that this was more useful. 
+- Other observations- 
+   - Some people thought the home page was too long
+   - Some people viewed the images as stock photography and a bit fake. 
+   - Some people said the hero banner was too large and they would rather have seen useful content sooner on the page.  
+   - One user said the site looked like LinkedIn and had seen nothing to suggest that this was more useful. 
 
 
 **What we'll do next**
