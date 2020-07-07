@@ -22,7 +22,7 @@ type_of_event: Online research and testing
 - This was a raw usability test to see if a normal person would notice the GlobalScot Icon and understand it’s significance
 - 7 Male. 3 Female. (Randomised selection) 
 
-**Hypthesis**
+**Hypothesis**
 - Making the GlobalScot Icon more obvious will increase the recognition of both GlobalScots, (as GlobalScots), and normal members as not being GlobalScots.
 - The Hypothesis was supported. 
 
