@@ -19,7 +19,7 @@ type_of_event: Online research and testing
 
 
 **Hypothesis**
-- The new home page navigation bar will be easy to use and surface pages that are lower in teh site Hierarchy.
+- The new home page navigation bar will be easy to use and surface pages that are lower in the site Hierarchy.
 
 **We tested with**
 - With 10 people from the generic UserZoom panel
