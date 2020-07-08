@@ -4,8 +4,8 @@ title: Lab Research         # Title to show on the page
 type: lab                   # Chose from: lab, online, a11y, other, partner
 phase: beta                 # chose from discovery, alpha, beta, live
 initials: LH & MK           # initials of person who did/uploaded the research
-display_date: 1st Jan 2020 # Date to show on the page
-return_url: "https://scotentsd.github.io/international/timeline/" # leave like this - don't change it   
+display_date: 1st Jan 2023 # Date to show on the page
+return_url: "https://scotentsd.github.io/international/timeline/" # leave like this - don't change it
 type_of_event: online       # add the type of event if you want it displayed added to the heading when the post is clicked on
                             # Lab Testing, Partner co-creation and co-design, Accessibility, Online research and testing, Events, F2F and testing
                             # or leave empty if not needed
@@ -15,7 +15,7 @@ type_of_event: online       # add the type of event if you want it displayed add
 - Beta
 
 **Date and type**
-- Jan 01 2020,  Face to Face & Skype
+- Jan 01 2023,  Face to Face & Skype
 
 **What we tested**
 -
@@ -26,8 +26,8 @@ type_of_event: online       # add the type of event if you want it displayed add
 
 
 **What the test involved**
-- 
+-
 
 
 **What we discovered**
--   
+-
