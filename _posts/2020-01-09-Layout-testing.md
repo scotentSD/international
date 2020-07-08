@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Wireframe testing V1
-type: online
-phase: alpha
+title: Home page & Registration usability testing
+type: lab
+phase: Beta
 initials: LH and MK
-display_date: 17th Dec 2019
+display_date: 9th Jan 2020
 return_url: "https://scotentsd.github.io/international/timeline/"
-type_of_event: Online research and testing
+type_of_event: Lab Testing
 ---
 
 **Phase**
