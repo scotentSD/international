@@ -1,10 +1,10 @@
 ---
 layout: post                # Don't change this from "post"
-title: Lab Research         # Title to show on the page
+title: Registration usability testing (Online Unmoderated)         # Title to show on the page
 type: lab                   # Chose from: lab, online, a11y, other, partner
 phase: beta                 # chose from discovery, alpha, beta, live
 initials: LH & MK           # initials of person who did/uploaded the research
-display_date: 22nd May 2020 # Date to show on the page
+display_date: 18th Feb 2020 # Date to show on the page
 return_url: "https://scotentsd.github.io/international/timeline/" # leave like this - don't change it   
 type_of_event: online       # add the type of event if you want it displayed added to the heading when the post is clicked on
                             # Lab Testing, Partner co-creation and co-design, Accessibility, Online research and testing, Events, F2F and testing
@@ -15,28 +15,22 @@ type_of_event: online       # add the type of event if you want it displayed add
 - Beta
 
 **Date and type**
-- Jan 01 2020,  Face to Face & Skype
+- Feb 18th 2020,  UserZoom
 
 **What we tested**
--
-
+- The registration process and form.
+- 2 versions:
+   - one for globlascots
+   - one for non globalscots 
 
 **Who we tested with**
--
-
-
-**What the test involved**
--
-
+- 15 people from the UserZoom panel
 
 **What we discovered**
-General
-- There were too many buttons
-- Still not enough information to make an informed decision
-- Join implied automatic acceptance
-- The join form is too soon and the pop up us perceived to be a barrier
+- Users thought it would be easy to complete the registration process.
+- Some users wanted to be able to import information from LinkedIn.
 
-Layout
-- The design is too linear with a lot of wasted space at the side
-- The design is aimed too much at new members
-- Events should be further up the page and we shouldn’t have to join to view
+
+**Recomendations / Changes**
+- We recommended the team look at whether it would be possible to import from LinkedIn.
+- They looked at the options and it is not possible yet.
