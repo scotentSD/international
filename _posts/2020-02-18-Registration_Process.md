@@ -21,7 +21,7 @@ type_of_event: online       # add the type of event if you want it displayed add
 - The registration process and form.
 - 2 versions:
    - one for globlascots
-   - one for non globalscots 
+   - one for non globalscots
 
 **Who we tested with**
 - 15 people from the UserZoom panel

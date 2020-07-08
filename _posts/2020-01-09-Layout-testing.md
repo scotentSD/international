@@ -2,7 +2,7 @@
 layout: post
 title: Home page & Registration usability testing
 type: lab
-phase: bxceta
+phase: beta
 initials: LH and MK
 display_date: 9th Jan 2020
 return_url: "https://scotentsd.github.io/international/timeline/"
