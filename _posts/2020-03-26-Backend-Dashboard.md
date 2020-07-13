@@ -27,9 +27,12 @@ type_of_event: online       # add the type of event if you want it displayed add
 
 **What we discovered**
 Dashboard
+- Liked the clear layout
+- Liked teh 3 Big Blocks at the top which covered Key CYA's  and KPI's together
 - Staff needed to see bad feedback on globalscots.  it was deemed to be essential
 - They want to see the dates of last interactions
 - They would like less information on the dashboard and a more graphic layout
+- Suggested that there is also a section for "Notes". This started a GDPR discussion about what was appropriate to record.
 
 User profile
 - Needs space for other company details than just current company
@@ -38,3 +41,4 @@ User profile
 - Bad feedback now a headline button
 - Layout streamlined
 - Dates of interactions now in backlog
+- Investigate Notes functionality and GDPR implications
