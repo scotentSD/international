@@ -2,7 +2,7 @@
 layout: post                # Don't change this from "post"
 title: Staff Dashboard testing (aspirational research)         # Title to show on the page
 type: lab                   # Chose from: lab, online, a11y, other, partner
-phase: beta                 # chose from discovery, alpha, beta, live
+phase: alpha                 # chose from discovery, alpha, beta, live
 initials: LH & MK           # initials of person who did/uploaded the research
 display_date: 16th Mar 2020 # Date to show on the page
 return_url: "https://scotentsd.github.io/international/timeline/" # leave like this - don't change it   
