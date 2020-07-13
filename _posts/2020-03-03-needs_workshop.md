@@ -20,7 +20,8 @@ type_of_event: Workshop        # add the type of event if you want it displayed 
 **Workshop details**
 - Develop Story Map of User Needs
 - Develop related Story Map for related Features
-- Develop mapping demonstrating linkage
+- Develop mapping, demonstrating linkage between needs and features
+- Prioritise needs and features
 
 **Why**
 - This gives a super simple view of:
