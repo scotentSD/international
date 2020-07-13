@@ -23,11 +23,9 @@ type_of_event: Partner co-creation       # add the type of event if you want it 
 - Develop mapping demonstrating linkage
 
 **Why**
-- This gives a super simple view of: 
+- This gives a super simple view of:
 	- Needs and Features
 	- How they map to each other
 	- How they are prioritised
 	- How they are phased for delivery
-- And this gives a simple way of viewing everything, understanding priorities and phases, and easily re-prioritising it. 
-
-
+- And this gives a simple way of viewing everything, understanding priorities and phases, and easily re-prioritising it.
