@@ -1,15 +1,15 @@
 ## Beta
 
-Personas
+**Personas**
 - [GlobalScot Persona V9](files/Personas_IN_v9.pdf)
 - [Persona Comparison - Members](files/Pesona_Comparisson-GlobalScot_Members_2020.pdf)
 - [Persona Comparison - GlobalScots and Staff](files/Pesona_Comparisson-GlobalScots_and_Staff_2020.pdf)
 
-Needs
+**Needs**
 - [User Needs v7](files/User_needs_beta_V7.pdf)
 - [User Needs vs Features v7](files/NeedsFeaturesApril2020.pdf)
 
-Research
+**Research**
 - [User Research  timeline](timeline)
 - [Research Questions - v7](files/ResearchQuestions_IN_2020_V7.pdf)
 - [Changes made in response to research - Beta v11](files/GSchangesV11.pdf)
