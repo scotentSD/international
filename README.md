@@ -1,15 +1,25 @@
 ## Beta
 
+Personas
 - [GlobalScot Persona V9](files/Personas_IN_v9.pdf)
+- [Persona Comparison - Members](files/Pesona_Comparisson-GlobalScot_Members_2020.pdf)
+- [Persona Comparison - GlobalScots and Staff](files/Pesona_Comparisson-GlobalScots_and_Staff_2020.pdf)
+
+Needs
 - [User Needs v7](files/User_needs_beta_V7.pdf)
 - [User Needs vs Features v7](files/NeedsFeaturesApril2020.pdf)
-- [User Research  timeline - To be updated](timeline)
+
+Research
+- [User Research  timeline](timeline)
 - [Research Questions - v7](files/ResearchQuestions_IN_2020_V7.pdf)
 - [Changes made in response to research - Beta v11](files/GSchangesV11.pdf)
 - [Decision Log- TBC](#)
 - [Ethics Plan](files/ethics_plan_IN_v0.9.pdf)
 - [Content guidelines](https://scotentsd.github.io/styleguide/)
+
+**Journey Maps**
 - [Custoner journey maps](files/International Networks - Customer journey maps.pdf)
+
 - **Service Blueprints**
   - [Request help from a GlobalScot](files/International Networks - Request help from a GlobalScot - Beta (1).pdf)
   - [Join the GlobalScot network as a network member](files/International Networks - Join the GlobalScot nework as a network member - Beta.pdf)
@@ -37,8 +47,3 @@
 
 ## Resources
 - [This page](https://scotentsd.github.io/international/)
-
-
-
-
-
