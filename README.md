@@ -20,7 +20,7 @@
 **Journey Maps**
 - [Custoner journey maps](files/International Networks - Customer journey maps.pdf)
 
-- **Service Blueprints**
+**Service Blueprints**
   - [Request help from a GlobalScot](files/International Networks - Request help from a GlobalScot - Beta (1).pdf)
   - [Join the GlobalScot network as a network member](files/International Networks - Join the GlobalScot nework as a network member - Beta.pdf)
   - [Join the GlobalScot network as a GlobalScot](files/International Networks - Join the GlobalScot network as a GlobalScot - Beta (1).pdf)
