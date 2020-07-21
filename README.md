@@ -10,11 +10,13 @@
 - [User Needs vs Features v7](files/NeedsFeaturesApril2020.pdf)
 
 **Research**
-- [User Research  timeline](timeline)
-- [Research Questions - v7](files/ResearchQuestions_IN_2020_V7.pdf)
-- [Changes made in response to research - Beta v11](files/GSchangesV11.pdf)
-<!-- - [Decision Log- TBC](#)  -->
+- [Timeline of User Research](timeline)
+- [Research Questions - v12](files/GSResearchQuestions_V12.pdf)
+- [Changes made in response to research - v12](files/GSchangesV12.pdf)
+- [Decision Log - v12](files/GSdecisionsV12.pdf)
 - [Ethics Plan](files/ethics_plan_IN_v0.9.pdf)
+
+**Guides**
 - [Content guidelines](https://scotentsd.github.io/styleguide/)
 
 **Journey Maps**
