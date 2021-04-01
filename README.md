@@ -33,6 +33,9 @@
 
 ## Discovery
 - **Customer experience maps**
+
+
+
    - [A day in the life of a GlobalScot](/files/Future State - A day in the life GlobalScot.pdf)
    - [Company user](files/Future State - Company user.pdf)
    - [Prospective GlobalScot](files/Future State - Prospect GlobalScot.pdf)
