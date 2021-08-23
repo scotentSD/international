@@ -69,3 +69,67 @@ theme: jekyll-theme-slate
 
 plugins:
   - jekyll-relative-links
+
+
+prose:
+  rooturl: ''
+  siteurl: 'http://scotentSD.github.io/international/'
+  relativeLinks: 'http://scotentSD.github.io/international/links.jsonp'
+  media: 'files'
+  ignore: [links.jsonp,  _config.yml,  media,  assets,  _sass,  _layouts, _includes, _flist, images, mktest, data.json, data2.json, data2.jsonp, timeline.css, links_copy.jsonp]
+  metadata:
+   _posts:
+    - name: "layout"
+      field:
+        element: "hidden"
+        value: "post"
+    - name: "type"
+      field:
+        element: "select"
+        label: "Type"
+        placeholder: ""
+        options:
+          - name: " lab "
+            value: "lab"
+          - name: " online "
+            value: "online"
+          - name: " a11y "
+            value: "a11y"
+          - name: " other "
+            value: "other"
+          - name: " partner"
+            value: "partner"
+    - name: "phase"
+      field:
+        element: "select"
+        label: "Phase"
+        placeholder: ""
+        options:
+         - name: "discovery"
+           value: "discovery"
+         - name: "alpha"
+           value: "alpha"
+         - name: "beta"
+           value: "beta"
+         - name: "live"
+           value: "live"
+    - name: "initials"
+      field:
+        element: "text"
+        label: "Initials"
+        value: ""
+    - name: "display_date"
+      field:
+        element: "text"
+        label: "Display_Date"
+        value: ""
+    - name: "tltitle"
+      field:
+        element: "text"
+        label: "Title"
+        value: ""
+    - name: "return_url"
+      field:
+        element: "hidden"
+        value: "https://scotentsd.github.io/international/timeline/"
+
