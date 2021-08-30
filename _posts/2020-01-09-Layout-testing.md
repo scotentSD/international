@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Home page & Registration usability testing
+tlitle: Home page & Registration usability testing
 type: lab
 phase: alpha
 initials: LH and MK

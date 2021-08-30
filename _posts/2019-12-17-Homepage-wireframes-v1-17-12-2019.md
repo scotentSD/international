@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wireframe testing V1
+tlitle: Wireframe testing V1
 type: online
 phase: alpha
 initials: kc

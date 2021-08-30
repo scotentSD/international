@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New "GlobalScot Icon" Testing
+tlitle: New "GlobalScot Icon" Testing
 type: online
 phase: beta
 initials: LH and MK

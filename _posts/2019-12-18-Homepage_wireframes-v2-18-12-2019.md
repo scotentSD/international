@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wireframe testing V2
+tlitle: Wireframe testing V2
 type: online
 phase: alpha
 initials: UX Team

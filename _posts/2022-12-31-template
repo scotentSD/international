@@ -1,6 +1,6 @@
 ---
 layout: post                # Don't change this from "post"
-title: Lab Research         # Title to show on the page
+tlitle: Lab Research         # Title to show on the page
 type: lab                   # Chose from: lab, online, a11y, other, partner
 phase: beta                 # chose from discovery, alpha, beta, live
 initials: LH & MK           # initials of person who did/uploaded the research

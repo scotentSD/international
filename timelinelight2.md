@@ -1,24 +1,18 @@
 ---
-title: BETA timeline
+title: Research Timeline  (v2)
 ---
 
 <section id="timeline">
-  <h1>BETA timeline</h1>
-  {% include key.html %}
-
+  <h1>Research Timeline Summary</h1>
   <ul class="timeline_ul">
     {% for post in site.posts %}
         <li class="timeline_card">
           <div class="timeline_head {{post.type}}">
             <a href="{{site.url}}/{{site.github.repository_name}}{{post.url}}">
-              <div class="date_{{post.type}}" > {{ post.display_date }} </div>
+              <div class="date_{{post.type}}" > {{ post.display_date }} :: {{ post.tltitle}}</div>
             <!-- <br>  -->
             <div class="type_{{post.type}}" > </div>  
             </a>
-          </div>
-          <div class="timeline_body">
-            <h2>{{ post.tltitle}}</h2>
-            {{ post.excerpt }}
           </div>
           <!-- <span class="initials">{{ post.initials }}</span> -->
        </li>

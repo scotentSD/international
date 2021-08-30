@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Navigation Bar on Home Page (Not Signed In) Testing
+tlitle: Navigation Bar on Home Page (Not Signed In) Testing
 type: online
 phase: beta
 initials: LH and MK

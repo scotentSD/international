@@ -1,6 +1,6 @@
 ---
 layout: post                # Don't change this from "post"
-title: Customer Needs > Features Story Mapping sessions         # Title to show on the page
+tlitle: Customer Needs > Features Story Mapping sessions         # Title to show on the page
 type: other                   # Chose from: lab, online, a11y, other, partner
 phase: alpha                 # chose from discovery, alpha, beta, live
 initials: LH & MK           # initials of person who did/uploaded the research
